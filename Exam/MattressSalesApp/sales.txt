@@ -1,0 +1,12 @@
+Customer: Customer Name:
+Product: Cozy Nights Monarch
+VAT amount: 150,00
+Commission amount: 50,00
+Total sale amount: 1200,00
+------------------------------
+Customer: Customer Name:
+Product: Cozy Nights Monarch
+VAT amount: 150,00
+Commission amount: 50,00
+Total sale amount: 1200,00
+------------------------------
